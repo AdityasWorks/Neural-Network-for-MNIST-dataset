@@ -105,7 +105,7 @@ def gradient_descent(X, Y, alpha, iterations):
             print(get_accuracy(predictions, Y))
     return W1, b1, W2, b2
 ```
-## Result
+## Results
 During training, the accuracy of the model improves progressively. By the 490th iteration, the network achieves an accuracy of approximately 85.77% on the training data:
 ```bash
 Iteration:  490
