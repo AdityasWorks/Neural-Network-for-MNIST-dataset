@@ -9,8 +9,6 @@ This project implements a simple neural network from scratch using only NumPy an
 - [Usage](#usage)
 - [Implementation Details](#implementation-details)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
